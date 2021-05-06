@@ -1,0 +1,5 @@
+Database:	surapatsuk_Greenworld
+Host:	localhost
+Username:	surapatsuk_Greenworld
+Password:	2maqcLvvz6zIu
+	Z2NdhuN!-5
